@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    margin: 20px;
+}
+
+h2 {
+    text-align: left;
+}
+
+form {
+    text-align: left;
+}
+
+input, select, button {
+    margin-top: 5px;
+}
+
+button {
+    margin-top: 10px;
+}
